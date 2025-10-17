@@ -1,0 +1,25 @@
+Simple And Wll Understand Flow chart :
+----------------------------------------
+
+Project: Ultrasonic Sensor with LED Distance Indicator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#Components Required:-
+
+Arduino UNO	-> 1
+Ultrasonic Sensor (HC-SR04)->	1
+LED	->1
+220Ω Resistor ->	1
+Jumper Wires	—
+Breadboard	1
+
+#Circuit Connections
+
+Ultrasonic Sensor	Arduino Pin
+VCC	5V
+GND	GND
+TRIG	9
+ECHO	10
+LED	Arduino Pin
+Anode (+)	7 (via 220Ω resistor)
+Cathode (–)	GND
